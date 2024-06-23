@@ -14,3 +14,6 @@ https://raw.githubusercontent.com/NxteQT/json-files/main/workspks.json
 
 \
 https://raw.githubusercontent.com/NxteQT/json-files/main/OTA_NIU_K3E13J24_40KPH_MAX_200624.bin
+
+
+https://raw.githubusercontent.com/NxteQT/json-files/main/firmware.json
