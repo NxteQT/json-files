@@ -1,0 +1,6 @@
+{
+  "command": "setSpeedLimit",
+  "parameters": {
+    "maxSpeed": 40
+  }
+}
